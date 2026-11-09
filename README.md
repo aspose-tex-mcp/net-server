@@ -83,4 +83,4 @@ Gitlinks pin exact revisions. Updating an upstream branch does not update this d
 
 GitHub Actions checks shell syntax and the catalog, then runs registration, MCP route verification, and the plugin regression suite. It does not deploy services or publish content.
 
-Engine and plugin license texts and notices are supplied by their respective pinned repositories. Preserve them when distributing those components. This repository is licensed under [MIT](LICENSE), copyright (c) 2025–2026 Aspose Pty Ltd.
+Engine and plugin license texts and notices are supplied by their respective pinned repositories. Preserve them when distributing those components. This repository is licensed under [MIT](LICENSE), copyright (c) 2001 - 2026 Aspose Pty Ltd.
